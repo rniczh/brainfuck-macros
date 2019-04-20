@@ -1,0 +1,8 @@
+[package]
+name = "brainfuck-macros"
+version = "0.1.0"
+authors = ["rnic <mathan0203@gmail.com>"]
+edition = "2018"
+
+[lib]
+proc-macro = true
