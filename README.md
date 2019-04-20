@@ -1,4 +1,4 @@
-# Brainfuck_macros in Rust
+# Brainfuck macros in Rust
 
 A non-optimization brainfuck macros for execute brainfuck language ~
 
@@ -9,7 +9,7 @@ A non-optimization brainfuck macros for execute brainfuck language ~
 
 ```shell
 
-git clone https://github.com/rniczh/brainfuck_macros.git
+git clone https://github.com/rniczh/brainfuck-macros.git
 
 ```
 
@@ -21,7 +21,7 @@ In `Cargo.toml`
 ```rust
 
 [dependencies]
-brainfuck_macros = { path = "path/to/brainfuck_macros" }
+brainfuck-macros = { path = "path/to/brainfuck-macros" }
 
 ```
 
