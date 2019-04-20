@@ -2,7 +2,7 @@
 
 A non-optimization brainfuck macros for execute brainfuck language ~
 
-<img src="https://i.imgur.com/A5jxigC.png"/>
+<img src="https://i.imgur.com/A5jxigC.png" width="60%"/>
 
 
 ## Installation
